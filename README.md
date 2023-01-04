@@ -21,7 +21,7 @@
 
 ## 💡 About the project
 
-The aim of this project is to make you code a function that returns a line, read from a file descriptor._
+The aim of this project is to make you code a function that returns a line, read from a file descriptor.
 
 	You will understand how files are opened, read and closed in an OS,
 	and how they are interpreted by a programming language for further analysis.
