@@ -7,8 +7,7 @@
 </p>
 
 <p align="center">
-	
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/Kankuro2000000/GetNextLine?color=yellow" />
+	<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Kankuro2000000/GetNextLine">
 	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Kankuro2000000/GetNextLine?color=blue" />
 </p>
 
