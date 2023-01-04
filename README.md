@@ -7,14 +7,12 @@
 </p>
 
 <p align="center">
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/jdecorte-be/42-Get-next-line?color=yellow" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/jdecorte-be/42-Get-next-line?color=blue" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/jdecorte-be/42-Get-next-line?color=green" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/count/kankuro2000000/42-Get-next-line?color=yellow" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/kankuro2000000/42-Get-next-line?color=blue" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kankuro2000000/42-Get-next-line?color=green" />
 </p>
 
 <h3 align="center">
-	<a href="#%EF%B8%8F-about">About</a>
-	<span> · </span>
 	<a href="#%EF%B8%8F-usage">Usage</a>
 	<span> · </span>
 	<a href="#-testing">Testing</a>
